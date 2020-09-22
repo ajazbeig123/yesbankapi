@@ -1,7 +1,7 @@
 ﻿{
 
 
-   "YES":[
+   
         {
             "BANK": "YES BANK",
             "IFSC": "YESB0000001",
@@ -25676,7 +25676,7 @@
             "DISTRICT": "LUCKNOW",
             "STATE": "UTTAR PRADESH"
         }
-    ]
+    
 
 
 }
